@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  x: 1
+  'y': 2018-02-12 15:50:50
+
+two:
+  x: 1
+  'y': 2018-02-12 15:50:50
